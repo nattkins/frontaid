@@ -1,1 +1,13 @@
-{}
+{
+  "custom-list": [
+    {
+      "custom-list-item": "third"
+    },
+    {
+      "custom-list-item": "second"
+    },
+    {
+      "custom-list-item": "first"
+    }
+  ]
+}
